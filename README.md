@@ -4,7 +4,7 @@ Clone Instagram App Using Instagram API
 
 **Instagram** is a social media app using the [Instagram API].
 
-Time spent: 7 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
@@ -15,11 +15,12 @@ The following functionality is complete:
 - [X] User can view the username of the photo's owner
 - [X] User can view the number of likes
 - [X] User can view the location of the photo (if there is one)
+- [X] User profile picture
 
 
 The following **additional** features will be implemented:
 
-- [ ] Include user profile picture
+- [ ] Round user profile picture
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -30,7 +31,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/OeXMSgW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Wfgg7wW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
